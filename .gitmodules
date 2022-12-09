@@ -1,3 +1,3 @@
-[submodule "source"]
-	path = source
+[submodule "pages"]
+	path = pages
 	url = https://github.com/btholt/complete-intro-to-realtime
